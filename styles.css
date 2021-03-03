@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Akaya+Telivigala&family=DotGothic16&display=swap');
+
+body{
+    background-color: cyan;
+}
+
+.Koszonto{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: larger;
+}
+.Rolunk{
+    font-family: 'Akaya Kanadaka', cursive;
+}
+img{
+    border: solid 9px red;
+}
